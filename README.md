@@ -1,2 +1,2 @@
 # fonction
-fonction de max et min et signe to two numbers
+fonction for max and min and signe of two numbers
